@@ -1,2 +1,2 @@
 # BCimplementation
-Repo for a BC implementation that I'm working on
+Repository for a Business Central implementation, including code, documentation, and processes.
